@@ -5,3 +5,4 @@ Another line...
 Lawton's fork's changes
 Added in test1 branch
 Added this change in the master branch
+Added another line
